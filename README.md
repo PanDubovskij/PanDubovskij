@@ -1,41 +1,21 @@
-<div id="header" align="center">
-  <!--<img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" width="200"/>-->
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/jan-dubovskij/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=PanDubovskij&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Hey
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-  
-</div>
- :man_technologist: About Me : I am a student at BSU. 
- 
-- 📑: I'm studying to be a programmer.
+# Hi there, I'm Jan Dubovsky 👋
 
-- :zap: Explore mobile development.
+## I'm a Java Backend Developer!
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jan-dubovskij/)
+With a passion for building scalable and efficient server-side applications, I have a strong foundation in Java and a passion for learning new technologies.
+
+### 🛠️ Technologies and Tools:
+
+- **Languages:** Java, SQL, JS/TS, Python, C++, Kotlin
+- **Frameworks:** Spring Boot
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Maven, Gradle, Git, Docker
+- **Testing:** JUnit, Mockito
+
+### 📫 How to reach me:
+
+- **LinkedIn:** [Jan Dubovsky](https://www.linkedin.com/in/jan-dubovskij/)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### :fire: My Stats :
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gapanovichOA&theme=light&background=FFFFFF)](https://git.io/streak-stats)-->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanDubovskij&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+Thank you for visiting my GitHub profile! Feel free to browse my repositories and don't hesitate to reach out if you want to collaborate on a project or just have a chat about technology.
